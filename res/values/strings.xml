@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragment Demo App</string>
+    <string name="fragment1_welcome">This is the first fragment. By default this fragment loads</string>
+    <string name="fragment2_welcome">This is the Second fragment.</string>
+    <string name="fragment3_welcome">This is the Third fragment. </string>
+    <string name="fragment4_welcome">This is the Fourth fragment.</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="fragment4">Fragment 4</string>
+
+</resources>
